@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Drake Neue;
+    src: url(drake-neue.ttf);
+}
+
+body {
+	font-family: Drake Neue;
+	font-size: 116px;
+	line-height: 1.25;
+	text-transform: lowercase;
+  word-break: break-word;
+	background-color: #ffffff;
+	color: #333333;
+	margin: 40px auto 40px auto;
+	width: 700px;
+}
+
+div {
+  margin-bottom: 600px;
+}
+
+textarea {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+
+
+
+
+
+
